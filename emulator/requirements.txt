@@ -1,0 +1,4 @@
+requests>=2.31
+sounddevice>=0.4.6
+pynput>=1.7.7
+pytest>=8.0
